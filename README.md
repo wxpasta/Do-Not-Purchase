@@ -21,6 +21,7 @@
 | ---- | ---- | ---- | ---- |
 | [Spec/boycott-discrimination.md](Spec/boycott-discrimination.md) | 不要买 | 用工歧视 / 价值观问题 | 招聘中户籍/性别/年龄/地域歧视（味多美）；或品牌人设与实际行为冲突（星巴克赶老人、全国"消费入座"） |
 | [Spec/pyramid-scheme.md](Spec/pyramid-scheme.md) | 不要买 | 传销 / 已被司法定性 | 法院已判或监管已认定的传销案：权健、善心汇、云在指尖、云联惠、天津天狮（山寨）、华林酸碱平 |
+| [Spec/china-boycott.md](Spec/china-boycott.md) | 不要买 | 辱华 / 不尊重中国 | 四类全部列入：①把港澳台列成国家（范思哲/蔻驰/纪梵希/CK/施华洛世奇/ASICS）；②抵制新疆棉（H&M/耐克/阿迪/Converse/Puma/Burberry/优衣库）；③侮辱革命领袖（雪铁龙 2008、Grey Worldwide 2009、奔驰 2018 达赖事件）；④区别对待中国消费者（D&G、宝马 MINI 冰淇淋） |
 | [Spec/food-safety.md](Spec/food-safety.md) | 少买 | 食品安全问题 | 抽检不合格、异物、召回、行政处罚：老干妈、2014 福喜过期肉（麦当劳/肯德基/必胜客等）、星巴克无锡门店过期食材 |
 | [Spec/315-exposed.md](Spec/315-exposed.md) | 少买 | 央视 3·15 晚会曝光 | 2019–2024 共 6 年晚会点名企业与品牌 |
 | [Spec/oem-licensed.md](Spec/oem-licensed.md) | 少买 | 贴牌 / 卖吊牌（品牌授权） | 品牌方不建厂、不做品控，只租 logo：北京同仁堂贴牌磷虾油、仁和、修正、五芳斋、南极人、恒源祥、回力等 |
