@@ -24,6 +24,7 @@
 | [Spec/china-boycott.md](Spec/china-boycott.md) | 不要买 | 辱华 / 不尊重中国 | 四类全部列入：①把港澳台列成国家（范思哲/蔻驰/纪梵希/CK/施华洛世奇/ASICS/万豪/达美/ZARA/美敦力/麦当劳台湾广告）；②抵制新疆棉（H&M/耐克/阿迪/Converse/Puma/Burberry/优衣库）；③侮辱革命领袖（雪铁龙 2008、Grey Worldwide 2009、奔驰 2018 达赖事件）；④区别对待中国消费者（D&G、宝马 MINI 冰淇淋、姆巴佩涉华言论） |
 | [Spec/food-safety.md](Spec/food-safety.md) | 少买 | 食品安全问题 | 抽检不合格、异物、召回、行政处罚：老干妈、2014 福喜过期肉（麦当劳/肯德基/必胜客等）、星巴克无锡门店过期食材 |
 | [Spec/additive-gap.md](Spec/additive-gap.md) | 少买 | 食品添加剂标准差异 & 非法添加物 | 三部分：①国际禁用但中国仍合法（甜蜜素/脱氢乙酸钠/合成色素）；②中国刚禁用（偶氮甲酰胺/过氧化苯甲酰）；③中国法律明确禁止的非法添加物（三聚氰胺/苏丹红/吊白块/硼砂/罂粟壳/孔雀石绿/瘦肉精/地沟油等） |
+| [Spec/toxic-textbooks.md](Spec/toxic-textbooks.md) | 少买 | 毒教材 / 问题儿童读物 | 人教社数学插图（吴勇工作室）、丁汝昌投降图（北京工业大学出版社）、大连理工出版社靖国神社封面、北京少儿出版社脏话读物、天津科技出版社争议识字书、江西美术出版社问题绘本 |
 | [Spec/315-exposed.md](Spec/315-exposed.md) | 少买 | 央视 3·15 晚会曝光 | 2019–2024 共 6 年晚会点名企业与品牌 |
 | [Spec/oem-licensed.md](Spec/oem-licensed.md) | 少买 | 贴牌 / 卖吊牌（品牌授权） | 品牌方不建厂、不做品控，只租 logo：北京同仁堂贴牌磷虾油、仁和、修正、五芳斋、南极人、恒源祥、回力等 |
 | [Spec/acquired-foreign-brands.md](Spec/acquired-foreign-brands.md) | 认知校准 | 原外国品牌，现被中资收购 / 运营 | 分两种模式：①品牌所有权真被买走（沃尔沃、ThinkPad、东芝白电、GE 家电、MG）；②运营权在中资、品牌仍是洋牌（麦当劳中国、星巴克中国、百胜中国） |
