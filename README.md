@@ -30,6 +30,9 @@
 | [Spec/shanzhai-brands.md](Spec/shanzhai-brands.md) | 少买 | 山寨 / 碰瓷品牌（小作坊仿冒名牌） | 康帅傅仿康师傅、雷碧仿雪碧、太白兔仿大白兔、旺子仿旺仔、六大核桃仿六个核桃、粤利粤仿奥利奥等 11 个食品饮料山寨；另含假醋 4 起（仿冒宁化府/平遥假陈醋/地理标志滥用/深圳黑作坊勾兑）；附辨别技巧 |
 | [Spec/acquired-foreign-brands.md](Spec/acquired-foreign-brands.md) | 认知校准 | 原外国品牌，现被中资收购 / 运营 | 分两种模式：①品牌所有权真被买走（沃尔沃、ThinkPad、东芝白电、GE 家电、MG）；②运营权在中资、品牌仍是洋牌（麦当劳中国、星巴克中国、百胜中国） |
 | [Spec/toxic-celebrities.md](Spec/toxic-celebrities.md) | 少买 | 塌房艺人 / 代言风险品牌 | 吸毒艺人（柯震东/房祖名/张默/李代沫/宁财神/高虎/满文军）；嫖娼/偷税艺人（李易峰/PG One/吴亦凡/邓伦/范冰冰）；附曾代言品牌清单 |
+| [Spec/fashion-quality.md](Spec/fashion-quality.md) | 少买 | 快时尚 / 服装质量问题 | H&M 以次充好被罚、ZARA 甲醛超标多次被通报、Shein 法国罚款 4000 万欧元；快时尚整体质量差 |
+| [Spec/home-renovation.md](Spec/home-renovation.md) | 少买 | 装修 / 家居避坑 | 业之峰"无甲醛"家具实际超标赔 72 万、居然之家新塘店四品牌爆雷、天地和装饰全包暗藏增项 |
+| [Spec/travel-pitfalls.md](Spec/travel-pitfalls.md) | 少买 | 出行 / 交通避坑 | 携程大数据杀熟判退一赔三、高德打车被约谈、T3 司机违规收高速费、景区杂牌共享单车"单车刺客" |
 
 ## 维护规则
 
