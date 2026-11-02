@@ -8,6 +8,8 @@
 | H&M | 海恩斯莫里斯（上海）商业有限公司 | 以次充好 | 2026.03：上海市黄浦区市监局罚款，涉及女裤、女鞋等产品 |
 | ZARA | 飒拉商业（上海）有限公司（Inditex 集团） | 甲醛超标、pH 值不合格 | 1. 2026.03：海关总署通报 2025 年进口消费品质量不合格典型案例，ZARA 有 5 个产品在列<br>2. 多次因销售不符合强制性标准的服装被处罚（2022 深圳、2026 上海） |
 | Shein | 希音（Shein） | 虚假宣传 | 2024：法国 DGCCRF 罚款 4000 万欧元，因虚假商业行为 |
+| 美特斯邦威 | 上海美特斯邦威服饰股份有限公司 | 色牢度不合格 | 2026.05：男针织裤耐干摩擦色牢度不符合国家标准，被上海浦东新区市监局没收违法所得并罚款 1.28 万元 |
+| 优衣库 UNIQLO | 迅销（中国）商贸有限公司 | 产品掉色 | 2024.11：优衣库 × ANYA HINDMARCH 联名款藏青色可折叠包因掉色问题全球召回 |
 | b+ab / MANGO / GUESS / 热风 | 各品牌中国分公司 | 快时尚整体质量差 | 中消协 70 款快时尚成人服装比较试验：全部符合标准的不足 7 成，甲醛、pH 值超标现象常见 |
 
 ## 怎么避
@@ -22,3 +24,5 @@
 - 光明网：《ZARA 曾多次因生产不合格产品被罚》（2026-03-17）https://m.gmw.cn/2026-03/17/content_1304380035.htm
 - 法国经济部：《SHEIN 被罚 4000 万欧元》（2024）https://www.economie.gouv.fr/files/files/directions_services/dgccrf/media-document/cp-dgccrf-SHEIN-sanctionne-amende-40millions.pdf
 - 央视网：《快时尚服装缘何表里不一？》https://jingji.cntv.cn/315dc/special/kuaishishang/index.shtml
+- 中国新闻网：《美特斯邦威被罚 因生产销售不合格男针织裤》（2026-05-07）http://www.chinanews.com.cn/cj/2026/05-07/10617162.shtml
+- 优衣库欧洲官网：UNIQLO x ANYA HINDMARCH 联名包掉色召回（2024-11）https://faq-eu.uniqlo.com/
