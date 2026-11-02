@@ -33,6 +33,7 @@
 | [Spec/fashion-quality.md](Spec/fashion-quality.md) | 少买 | 快时尚 / 服装质量问题 | H&M 以次充好被罚、ZARA 甲醛超标多次被通报、Shein 法国罚款 4000 万欧元；快时尚整体质量差 |
 | [Spec/home-renovation.md](Spec/home-renovation.md) | 少买 | 装修 / 家居避坑 | 业之峰"无甲醛"家具实际超标赔 72 万、居然之家新塘店四品牌爆雷、天地和装饰全包暗藏增项 |
 | [Spec/travel-pitfalls.md](Spec/travel-pitfalls.md) | 少买 | 出行 / 交通避坑 | 携程大数据杀熟判退一赔三、高德打车被约谈、T3 司机违规收高速费、景区杂牌共享单车"单车刺客" |
+| [Spec/dairy-guide.md](Spec/dairy-guide.md) | 选购指南 | 奶制品怎么选 | 3 步挑好牛奶：看配料表（只有生牛乳）、看蛋白质（≥3.2g）、看国家标准；巴氏奶 vs 常温奶区别；常见品牌推荐；避坑"假牛奶"（复原乳/调制乳/乳饮料） |
 
 ## 维护规则
 
