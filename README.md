@@ -29,6 +29,7 @@
 | [Spec/oem-licensed.md](Spec/oem-licensed.md) | 少买 | 贴牌 / 卖吊牌（品牌授权） | 品牌方不建厂、不做品控，只租 logo：北京同仁堂贴牌磷虾油、仁和、修正、五芳斋、南极人、恒源祥、回力等 |
 | [Spec/shanzhai-brands.md](Spec/shanzhai-brands.md) | 少买 | 山寨 / 碰瓷品牌（小作坊仿冒名牌） | 康帅傅仿康师傅、雷碧仿雪碧、太白兔仿大白兔、旺子仿旺仔、六大核桃仿六个核桃、粤利粤仿奥利奥等 11 个食品饮料山寨；另含假醋 4 起（仿冒宁化府/平遥假陈醋/地理标志滥用/深圳黑作坊勾兑）；附辨别技巧 |
 | [Spec/acquired-foreign-brands.md](Spec/acquired-foreign-brands.md) | 认知校准 | 原外国品牌，现被中资收购 / 运营 | 分两种模式：①品牌所有权真被买走（沃尔沃、ThinkPad、东芝白电、GE 家电、MG）；②运营权在中资、品牌仍是洋牌（麦当劳中国、星巴克中国、百胜中国） |
+| [Spec/toxic-celebrities.md](Spec/toxic-celebrities.md) | 少买 | 塌房艺人 / 代言风险品牌 | 吸毒艺人（柯震东/房祖名/张默/李代沫/宁财神/高虎/满文军）；嫖娼/偷税艺人（李易峰/PG One/吴亦凡/邓伦/范冰冰）；附曾代言品牌清单 |
 
 ## 维护规则
 
