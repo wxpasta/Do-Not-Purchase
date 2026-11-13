@@ -1,6 +1,6 @@
 # Do-Not-Purchase（不要买 / 少买清单）
 
-> 一份可追溯到处罚文书 / 央视报道 / 主流媒体调查的消费避坑清单：把有实锤风险的品牌、企业、代工厂按"为什么要避"分类整理，每条附事实与来源，不写主观情绪。
+> 一份可追溯到处罚文书 / 央视报道 / 主流媒体调查的消费避坑清单：把有实锤风险的品牌、企业、代工厂按消费品类整理，每条附事实与来源，不写主观情绪。
 > 想看全部品牌名：直接翻 [BRANDS.md](BRANDS.md) 速查总清单。
 
 ## 头部高频风险速览
@@ -9,20 +9,21 @@
 
 | 场景 | 品牌 / 主体 | 风险点 | 详见 |
 | ---- | ---- | ---- | ---- |
-| 外卖连锁 | 麦当劳 / 肯德基 / 必胜客 / 汉堡王 | 2014 上海福喜过期肉事件（采购问题代工厂） | [food-safety.md](Spec/food-safety.md) |
-| 零食 | 三只松鼠 | 瓜子霉菌超标，年内两次食安问题 | [food-safety.md](Spec/food-safety.md) |
-| 零食 | 麻六记 | 酸辣粉两次发霉 | [food-safety.md](Spec/food-safety.md) |
-| 卫生巾纸尿裤 | 棉密码 | 检出致癌物硫脲，超标约 16 倍 | [daily-items.md](Spec/daily-items.md) |
-| 卫生巾纸尿裤 | 好奇 / 碧芭宝贝 / Babycare | 纸尿裤检出甲酰胺 | [daily-items.md](Spec/daily-items.md) |
-| 贴牌吊牌 | 南极人 / 恒源祥 / 仁和 / 修正 | 品牌方不建厂、不做品控，只租 logo | [oem-licensed.md](Spec/oem-licensed.md) |
-| 儿童用品 | 多乐智 / 巧乐 / 上影元等 | 玩具小零件、增塑剂、锐利尖端不合格 | [kids-products.md](Spec/kids-products.md) |
-| 用工歧视 | 味多美 / 哈啰 / 喜茶 / 星宇股份 | 户籍、年龄、校招批量劝退 | [boycott-discrimination.md](Spec/boycott-discrimination.md) |
-| 预付跑路 | 卡莫瑜伽 / 爱乐乐享 / 乐融儿童之家 | 闭店欠薪欠费、课程费难退 | [prepaid-scams.md](Spec/prepaid-scams.md) |
+| 外卖连锁 | 麦当劳 / 肯德基 / 必胜客 / 汉堡王 | 2014 上海福喜过期肉事件（采购问题代工厂） | [food-safety.md](Spec/01-food/food-safety.md) |
+| 零食 | 三只松鼠 | 瓜子霉菌超标，年内两次食安问题 | [food-safety.md](Spec/01-food/food-safety.md) |
+| 零食 | 麻六记 | 酸辣粉两次发霉 | [food-safety.md](Spec/01-food/food-safety.md) |
+| 卫生巾纸尿裤 | 棉密码 | 检出致癌物硫脲，超标约 16 倍 | [daily-items.md](Spec/05-daily-use/daily-items.md) |
+| 卫生巾纸尿裤 | 好奇 / 碧芭宝贝 / Babycare | 纸尿裤检出甲酰胺 | [daily-items.md](Spec/05-daily-use/daily-items.md) |
+| 贴牌吊牌 | 南极人 / 恒源祥 / 仁和 / 修正 | 品牌方不建厂、不做品控，只租 logo | [oem-licensed.md](Spec/05-daily-use/oem-licensed.md) |
+| 儿童用品 | 多乐智 / 巧乐 / 上影元等 | 玩具小零件、增塑剂、锐利尖端不合格 | [kids-products.md](Spec/06-kids/kids-products.md) |
+| 用工歧视 | 味多美 / 哈啰 / 喜茶 / 星宇股份 | 户籍、年龄、校招批量劝退 | [boycott-discrimination.md](Spec/08-boycott/boycott-discrimination.md) |
+| 预付跑路 | 卡莫瑜伽 / 爱乐乐享 / 乐融儿童之家 | 闭店欠薪欠费、课程费难退 | [prepaid-scams.md](Spec/07-services/prepaid-scams.md) |
 
 ## 分级口径
 
 - **不要买（Boycott）**：原则性问题——已被法院定性为传销/诈骗、存在用工歧视、品牌人设与实际行为严重冲突。
 - **少买（Risk）**：存在已知质量/品控风险，非不可替代，但买前要心里有数。
+- **认知校准**：不是抵制对象，只做归属 / 运营事实梳理。
 
 ## 列约定
 
@@ -38,26 +39,70 @@
 
 ## 分类索引
 
-| 文件 | 分级 | 类别 | 覆盖范围 |
-| ---- | ---- | ---- | ---- |
-| [Spec/boycott-discrimination.md](Spec/boycott-discrimination.md) | 不要买 | 用工歧视 / 价值观问题 | 招聘中户籍/性别/年龄/地域歧视（味多美）；或品牌人设与实际行为冲突（星巴克赶老人、全国"消费入座"） |
-| [Spec/pyramid-scheme.md](Spec/pyramid-scheme.md) | 不要买 | 传销 / 已被司法定性 | 法院已判或监管已认定的传销案：权健、善心汇、云在指尖、云联惠、天津天狮（山寨）、华林酸碱平 |
-| [Spec/china-boycott.md](Spec/china-boycott.md) | 不要买 | 辱华 / 不尊重中国 | 四类全部列入：①把港澳台列成国家（范思哲/蔻驰/纪梵希/CK/施华洛世奇/ASICS/万豪/达美/ZARA/美敦力/麦当劳台湾广告）；②抵制新疆棉（H&M/耐克/阿迪/Converse/Puma/Burberry/优衣库）；③侮辱革命领袖（雪铁龙 2008、Grey Worldwide 2009、奔驰 2018 达赖事件）；④区别对待中国消费者（D&G、宝马 MINI 冰淇淋、姆巴佩涉华言论） |
-| [Spec/food-safety.md](Spec/food-safety.md) | 少买 | 食品安全问题 | 抽检不合格、异物、召回、行政处罚：老干妈、2014 福喜过期肉（麦当劳/肯德基/必胜客等）、星巴克无锡门店过期食材 |
-| [Spec/additive-gap.md](Spec/additive-gap.md) | 少买 | 食品添加剂标准差异 & 非法添加物 | 三部分：①国际禁用但中国仍合法（甜蜜素/脱氢乙酸钠/合成色素）；②中国刚禁用（偶氮甲酰胺/过氧化苯甲酰）；③中国法律明确禁止的非法添加物（三聚氰胺/苏丹红/吊白块/硼砂/罂粟壳/孔雀石绿/瘦肉精/地沟油等） |
-| [Spec/toxic-textbooks.md](Spec/toxic-textbooks.md) | 少买 | 毒教材 / 问题儿童读物 | 人教社数学插图（吴勇工作室）、丁汝昌投降图（北京工业大学出版社）、大连理工出版社靖国神社封面、北京少儿出版社脏话读物、天津科技出版社争议识字书、江西美术出版社问题绘本 |
-| [Spec/315-exposed.md](Spec/315-exposed.md) | 少买 | 央视 3·15 晚会曝光 | 2019–2024 共 6 年晚会点名企业与品牌 |
-| [Spec/oem-licensed.md](Spec/oem-licensed.md) | 少买 | 贴牌 / 卖吊牌（品牌授权） | 品牌方不建厂、不做品控，只租 logo：北京同仁堂贴牌磷虾油、仁和、修正、五芳斋、南极人、恒源祥、回力等 |
-| [Spec/shanzhai-brands.md](Spec/shanzhai-brands.md) | 少买 | 山寨 / 碰瓷品牌（小作坊仿冒名牌） | 康帅傅仿康师傅、雷碧仿雪碧、太白兔仿大白兔、旺子仿旺仔、六大核桃仿六个核桃、粤利粤仿奥利奥等 11 个食品饮料山寨；另含假醋 4 起（仿冒宁化府/平遥假陈醋/地理标志滥用/深圳黑作坊勾兑）；附辨别技巧 |
-| [Spec/acquired-foreign-brands.md](Spec/acquired-foreign-brands.md) | 认知校准 | 原外国品牌，现被中资收购 / 运营 | 分两种模式：①品牌所有权真被买走（沃尔沃、ThinkPad、东芝白电、GE 家电、MG）；②运营权在中资、品牌仍是洋牌（麦当劳中国、星巴克中国、百胜中国） |
-| [Spec/toxic-celebrities.md](Spec/toxic-celebrities.md) | 少买 | 塌房艺人 / 代言风险品牌 | 吸毒艺人（柯震东/房祖名/张默/李代沫/宁财神/高虎/满文军）；嫖娼/偷税艺人（李易峰/PG One/吴亦凡/邓伦/范冰冰）；附曾代言品牌清单 |
-| [Spec/fashion-quality.md](Spec/fashion-quality.md) | 少买 | 快时尚 / 服装质量问题 | H&M 以次充好被罚、ZARA 甲醛超标多次被通报、Shein 法国罚款 4000 万欧元；快时尚整体质量差 |
-| [Spec/home-renovation.md](Spec/home-renovation.md) | 少买 | 装修 / 家居避坑 | 业之峰"无甲醛"家具实际超标赔 72 万、居然之家新塘店四品牌爆雷、天地和装饰全包暗藏增项 |
-| [Spec/travel-pitfalls.md](Spec/travel-pitfalls.md) | 少买 | 出行 / 交通避坑 | 携程大数据杀熟判退一赔三、高德打车被约谈、T3 司机违规收高速费、景区杂牌共享单车"单车刺客" |
-| [Spec/dairy-guide.md](Spec/dairy-guide.md) | 选购指南 | 奶制品怎么选 | 3 步挑好牛奶：看配料表（只有生牛乳）、看蛋白质（≥3.2g）、看国家标准；巴氏奶 vs 常温奶区别；常见品牌推荐；避坑"假牛奶"（复原乳/调制乳/乳饮料） |
-| [Spec/daily-items.md](Spec/daily-items.md) | 少买 | 日常小物件避坑 | 洗护（霸王/兔头妈妈抽检不合格）；卫生巾纸尿裤（翻新货/硫脲致癌物/甲酰胺/荧光剂）；数据线充电器（泡泡玛特炸手机/9.9元起火/3C认证不合格） |
-| [Spec/prepaid-scams.md](Spec/prepaid-scams.md) | 少买 | 预付跑路 & 保健品会销坑老 | 会销虚假宣传（科治好电位仪、科奥世纪富硒蛋引流）；预付跑路（卡莫瑜伽、爱乐乐享、乐融托育、冒名中歌艺术培训）；美发美容预付卡投诉线索（木北/永琪/逸丝风尚/怡瑞） |
-| [Spec/kids-products.md](Spec/kids-products.md) | 少买 | 儿童用品避坑 | 玩具（无3C/小零件/邻苯/锐利尖端，多乐智/巧乐/上影元等）；童装（绳带/pH/纤维含量标识）；文具作业本（D65亮度荧光超标召回，教科/环美/四季年华/光华） |
+目录按**吃穿住行用 + 儿童 + 服务**组织；原则性抵制（横切各品类）与信息校准 / 事件索引单列在后。
+
+### 01 · 吃（food）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [food-safety.md](Spec/01-food/food-safety.md) | 少买 | 食品安全：抽检不合格、异物、召回、行政处罚（老干妈、2014 福喜过期肉、星巴克无锡门店、冷饮糖果、北京企业等） |
+| [dairy-guide.md](Spec/01-food/dairy-guide.md) | 选购指南 | 奶制品怎么选：看配料表 / 蛋白质 / 国标；避坑复原乳、调制乳、乳饮料 |
+| [additive-gap.md](Spec/01-food/additive-gap.md) | 少买 | 添加剂标准差异 & 非法添加物：国际禁用国内仍合法、国内刚禁用、法律明令禁止三类 |
+| [shanzhai-food.md](Spec/01-food/shanzhai-food.md) | 少买 | 山寨食品 / 假醋 / 老字号鉴别：康帅傅、雷碧、六大核桃等；假陈醋 4 起；龙门米醋、王致和、六必居、稻香村正品鉴别 |
+
+### 02 · 穿（clothing）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [fashion-quality.md](Spec/02-clothing/fashion-quality.md) | 少买 | 快时尚 / 服装质量：H&M、ZARA、Shein、美特斯邦威等；附塑料面料（涤纶 / 尼龙 / 腈纶 / 氨纶）说明 |
+
+### 03 · 住（living）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [home-renovation.md](Spec/03-living/home-renovation.md) | 少买 | 装修 / 家居：业之峰超标赔 72 万、东易日盛重整、爱空间 / 住范儿烂尾、天地和增项 |
+
+### 04 · 行（travel）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [travel-pitfalls.md](Spec/04-travel/travel-pitfalls.md) | 少买 | 出行 / 交通：携程杀熟、航司超售 / 锁座、滴滴无证、高德被约谈、T3 违规收费、景区单车刺客 |
+
+### 05 · 用（daily-use）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [daily-items.md](Spec/05-daily-use/daily-items.md) | 少买 | 日常小物件：洗护、卫生巾纸尿裤、数据线充电器、小家电、厨房用品 |
+| [oem-licensed.md](Spec/05-daily-use/oem-licensed.md) | 少买 | 贴牌 / 卖吊牌（品牌授权）：同仁堂贴牌磷虾油、仁和、修正、五芳斋、南极人、恒源祥、回力等 |
+
+### 06 · 儿童（kids）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [kids-products.md](Spec/06-kids/kids-products.md) | 少买 | 玩具 / 童装 / 文具作业本：无 3C、小零件、邻苯、锐利尖端、荧光亮度超标召回；附二年级避买速查 |
+| [toxic-textbooks.md](Spec/06-kids/toxic-textbooks.md) | 少买 | 问题儿童读物 / 教材：人教社数学插图、丁汝昌投降图、靖国神社封面、脏话读物等 |
+
+### 07 · 服务（services）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [prepaid-scams.md](Spec/07-services/prepaid-scams.md) | 少买 | 预付跑路 & 会销坑老：科治好、科奥世纪、卡莫瑜伽、爱乐乐享、乐融托育、冒名中歌培训；美发美容投诉线索 |
+
+### 08 · 原则抵制（boycott，横切各品类）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [china-boycott.md](Spec/08-boycott/china-boycott.md) | 不要买 | 辱华 / 不尊重中国：把港澳台列成国家、抵制新疆棉、侮辱革命领袖、区别对待中国消费者 |
+| [boycott-discrimination.md](Spec/08-boycott/boycott-discrimination.md) | 不要买 | 用工歧视 / 价值观：户籍 / 年龄 / 院校歧视、996 文化、校招批量劝退、对不消费人群不友好 |
+| [pyramid-scheme.md](Spec/08-boycott/pyramid-scheme.md) | 不要买 | 传销 / 已被司法定性：权健、善心汇、云在指尖、云联惠、天津天狮（山寨）、华林酸碱平、海汇国际 |
+| [toxic-celebrities.md](Spec/08-boycott/toxic-celebrities.md) | 少买 | 塌房艺人 / 代言风险：吸毒、嫖娼、偷税艺人；附国籍与曾代言品牌 |
+
+### 09 · 信息校准 / 事件索引（reference）
+
+| 文件 | 分级 | 覆盖范围 |
+| ---- | ---- | ---- |
+| [315-exposed.md](Spec/09-reference/315-exposed.md) | 少买 | 央视 3·15 晚会曝光：2019–2024 共 6 年点名企业与品牌；按年份索引，条目回各品类文件 |
+| [acquired-foreign-brands.md](Spec/09-reference/acquired-foreign-brands.md) | 认知校准 | 原外国品牌现被中资收购 / 运营：品牌所有权转移 vs 仅运营权在中资，非抵制对象 |
 
 ## 贡献
 
@@ -68,5 +113,5 @@
 1. 每条必须有可追溯来源（监管处罚文书、央视报道、主流媒体调查），不写"据说""听说"。
 2. 时间、地点、处罚结果写具体年份；只写结论不写过程。
 3. 同一品牌跨多个类别时，在主类别详写，其他类别只给一行跳转。
-4. 新增条目直接往对应文件表格里追加，不要新建散落文件。
+4. 新增条目直接往对应目录的文件表格里追加，不要新建散落文件。
 5. 第一列永远是品牌名；企业/代工厂名单独成列，不要和品牌混在一格。

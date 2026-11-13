@@ -52,7 +52,7 @@
 
 ## 附：二年级（7-8 岁）学生避买速查
 
-> 按孩子每天接触的场景汇总，案例来源见上文各表及 [food-safety.md](food-safety.md)、[daily-items.md](daily-items.md)、[prepaid-scams.md](prepaid-scams.md)。
+> 按孩子每天接触的场景汇总，案例来源见上文各表及 [food-safety.md](../01-food/food-safety.md)、[daily-items.md](../05-daily-use/daily-items.md)、[prepaid-scams.md](../07-services/prepaid-scams.md)。
 
 | 场景 | 不要买 / 少买 | 风险点 |
 | ---- | ---- | ---- |

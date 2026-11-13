@@ -6,7 +6,7 @@
 
 ## 一、不要买（原则抵制）
 
-### 1. 辱华 / 不尊重中国 — [china-boycott.md](china-boycott.md)
+### 1. 辱华 / 不尊重中国 — [china-boycott.md](Spec/08-boycott/china-boycott.md)
 
 | 品牌 | 问题归类 |
 | ---- | ---- |
@@ -34,7 +34,7 @@
 | 姆巴佩 Mbappé（球员） | 涉华不当言论；蒙牛、东鹏、On昂跑、妙可蓝多已解约 |
 | 麦当劳（台湾广告） | 广告把"国籍"写成"台湾" |
 
-### 2. 传销 / 司法定性 — [pyramid-scheme.md](pyramid-scheme.md)
+### 2. 传销 / 司法定性 — [pyramid-scheme.md](Spec/08-boycott/pyramid-scheme.md)
 
 | 品牌 / 平台 | 定性 |
 | ---- | ---- |
@@ -46,7 +46,7 @@
 | 华林酸碱平 | 理疗/保健品传销 |
 | 海汇国际 | 虚拟货币/外汇理财网络传销，主犯获刑 8 年 |
 
-### 3. 用工歧视 / 价值观 — [boycott-discrimination.md](boycott-discrimination.md)
+### 3. 用工歧视 / 价值观 — [boycott-discrimination.md](Spec/08-boycott/boycott-discrimination.md)
 
 | 品牌 / 企业 | 问题 |
 | ---- | ---- |
@@ -63,7 +63,7 @@
 | 星宇股份 | 校招批量裁员、羞辱式劝退打螺丝 |
 | 星巴克 | 赶不消费老人；全国推行"消费入座" |
 
-### 4. 塌房艺人 / 代言风险 — [toxic-celebrities.md](toxic-celebrities.md)
+### 4. 塌房艺人 / 代言风险 — [toxic-celebrities.md](Spec/08-boycott/toxic-celebrities.md)
 
 | 艺人 | 国籍 | 塌房原因 |
 | ---- | ---- | ---- |
@@ -82,7 +82,7 @@
 
 ## 二、少买（已知风险）
 
-### 5. 食品安全 — [food-safety.md](food-safety.md)
+### 5. 食品安全 — [food-safety.md](Spec/01-food/food-safety.md)
 
 | 品牌 / 主体 | 问题 |
 | ---- | ---- |
@@ -111,7 +111,7 @@
 | 全聚德（王府井店） | 儿童餐混入钢丝球碎屑 |
 | 小杨生煎（朝阳门店） | 操作卫生不规范 |
 
-### 6. 快时尚 / 服装 — [fashion-quality.md](fashion-quality.md)
+### 6. 快时尚 / 服装 — [fashion-quality.md](Spec/02-clothing/fashion-quality.md)
 
 | 品牌 | 问题 |
 | ---- | ---- |
@@ -123,7 +123,7 @@
 | b+ab / MANGO / GUESS / 热风 | 快时尚整体质量差 |
 | 吉芬 JEFEN | 衬衫主动召回 |
 
-### 7. 日常小物件 — [daily-items.md](daily-items.md)
+### 7. 日常小物件 — [daily-items.md](Spec/05-daily-use/daily-items.md)
 
 | 类别 | 品牌 / 主体 | 问题 |
 | ---- | ---- | ---- |
@@ -144,7 +144,7 @@
 | 厨房用品 | IKEA 宜家 | 炒锅涂层标识缺失召回 |
 | 厨房用品 | 双立人 / 张小泉 / 菲仕乐 / WMF / 巴拉利尼 | 锅具标签标识不完整 |
 
-### 8. 装修 / 家居 — [home-renovation.md](home-renovation.md)
+### 8. 装修 / 家居 — [home-renovation.md](Spec/03-living/home-renovation.md)
 
 | 品牌 / 企业 | 问题 |
 | ---- | ---- |
@@ -155,7 +155,7 @@
 | 居然之家新塘店 | 店内 4 品牌店爆雷 |
 | 天地和装饰 | 全包暗藏增项 |
 
-### 9. 出行 / 交通 — [travel-pitfalls.md](travel-pitfalls.md)
+### 9. 出行 / 交通 — [travel-pitfalls.md](Spec/04-travel/travel-pitfalls.md)
 
 | 品牌 / 主体 | 问题 |
 | ---- | ---- |
@@ -168,7 +168,7 @@
 | T3 出行 | 司机违规加收高速费 |
 | 景区杂牌共享单车 | "单车刺客"起步价畸高 |
 
-### 10. 预付跑路 / 会销坑老 — [prepaid-scams.md](prepaid-scams.md)
+### 10. 预付跑路 / 会销坑老 — [prepaid-scams.md](Spec/07-services/prepaid-scams.md)
 
 | 品牌 / 主体 | 问题 | 证据等级 |
 | ---- | ---- | ---- |
@@ -183,7 +183,7 @@
 | 逸丝风尚 | 停业未退款 | 投诉线索 |
 | 怡瑞美业 | 分店卷款、总部分店推责 | 投诉线索 |
 
-### 11. 儿童用品 — [kids-products.md](kids-products.md)
+### 11. 儿童用品 — [kids-products.md](Spec/06-kids/kids-products.md)
 
 | 类别 | 品牌 / 主体 | 问题 |
 | ---- | ---- | ---- |
@@ -200,7 +200,7 @@
 | 作业本 | 四季年华 | 荧光亮度偏高召回 |
 | 作业本 | 光华彩色印刷厂 | 作业本召回 |
 
-### 12. 贴牌 / 卖吊牌 — [oem-licensed.md](oem-licensed.md)
+### 12. 贴牌 / 卖吊牌 — [oem-licensed.md](Spec/05-daily-use/oem-licensed.md)
 
 | 品牌 | 模式 |
 | ---- | ---- |
@@ -216,7 +216,7 @@
 | 回力 | 授权贴牌扩品类，拖鞋邻苯超欧盟限量 195 倍 |
 | 花花公子 | 品牌授权经营 |
 
-### 13. 3·15 晚会曝光 — [315-exposed.md](315-exposed.md)
+### 13. 3·15 晚会曝光 — [315-exposed.md](Spec/09-reference/315-exposed.md)
 
 | 品牌 / 主体 | 问题 |
 | ---- | ---- |
@@ -236,7 +236,7 @@
 
 ## 三、附：问题读物与山寨仿冒名
 
-### 问题儿童读物 — [toxic-textbooks.md](toxic-textbooks.md)
+### 问题儿童读物 — [toxic-textbooks.md](Spec/06-kids/toxic-textbooks.md)
 
 - 人教版小学数学教材（2012–2022 版，人教社 + 吴勇工作室）
 - 《写给孩子看的中国史·近代》（北京工业大学出版社，丁汝昌投降图）
@@ -245,7 +245,7 @@
 - 《识字认读》上册（天津科学技术出版社）
 - 某儿童绘本（江西美术出版社）
 
-### 山寨仿冒名 — [shanzhai-brands.md](shanzhai-brands.md)
+### 山寨仿冒名 — [shanzhai-food.md](Spec/01-food/shanzhai-food.md)
 
 | 山寨名 | 仿冒正品 |
 | ---- | ---- |
