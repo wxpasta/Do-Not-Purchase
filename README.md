@@ -1,6 +1,23 @@
 # Do-Not-Purchase（不要买 / 少买清单）
 
-按"为什么要避"分类的避坑清单。每条都附事实来源，不写主观情绪。
+> 一份可追溯到处罚文书 / 央视报道 / 主流媒体调查的消费避坑清单：把有实锤风险的品牌、企业、代工厂按"为什么要避"分类整理，每条附事实与来源，不写主观情绪。
+> 想看全部品牌名：直接翻 [BRANDS.md](BRANDS.md) 速查总清单。
+
+## 头部高频风险速览
+
+> 只列日常高频消费场景里有明确处罚 / 通报 / 调查记录的条目；"少买"不等于全盘否定，买前看一眼对应分类文件。
+
+| 场景 | 品牌 / 主体 | 风险点 | 详见 |
+| ---- | ---- | ---- | ---- |
+| 外卖连锁 | 麦当劳 / 肯德基 / 必胜客 / 汉堡王 | 2014 上海福喜过期肉事件（采购问题代工厂） | [food-safety.md](Spec/food-safety.md) |
+| 零食 | 三只松鼠 | 瓜子霉菌超标，年内两次食安问题 | [food-safety.md](Spec/food-safety.md) |
+| 零食 | 麻六记 | 酸辣粉两次发霉 | [food-safety.md](Spec/food-safety.md) |
+| 卫生巾纸尿裤 | 棉密码 | 检出致癌物硫脲，超标约 16 倍 | [daily-items.md](Spec/daily-items.md) |
+| 卫生巾纸尿裤 | 好奇 / 碧芭宝贝 / Babycare | 纸尿裤检出甲酰胺 | [daily-items.md](Spec/daily-items.md) |
+| 贴牌吊牌 | 南极人 / 恒源祥 / 仁和 / 修正 | 品牌方不建厂、不做品控，只租 logo | [oem-licensed.md](Spec/oem-licensed.md) |
+| 儿童用品 | 多乐智 / 巧乐 / 上影元等 | 玩具小零件、增塑剂、锐利尖端不合格 | [kids-products.md](Spec/kids-products.md) |
+| 用工歧视 | 味多美 / 哈啰 / 喜茶 / 星宇股份 | 户籍、年龄、校招批量劝退 | [boycott-discrimination.md](Spec/boycott-discrimination.md) |
+| 预付跑路 | 卡莫瑜伽 / 爱乐乐享 / 乐融儿童之家 | 闭店欠薪欠费、课程费难退 | [prepaid-scams.md](Spec/prepaid-scams.md) |
 
 ## 分级口径
 
@@ -41,6 +58,10 @@
 | [Spec/daily-items.md](Spec/daily-items.md) | 少买 | 日常小物件避坑 | 洗护（霸王/兔头妈妈抽检不合格）；卫生巾纸尿裤（翻新货/硫脲致癌物/甲酰胺/荧光剂）；数据线充电器（泡泡玛特炸手机/9.9元起火/3C认证不合格） |
 | [Spec/prepaid-scams.md](Spec/prepaid-scams.md) | 少买 | 预付跑路 & 保健品会销坑老 | 会销虚假宣传（科治好电位仪、科奥世纪富硒蛋引流）；预付跑路（卡莫瑜伽、爱乐乐享、乐融托育、冒名中歌艺术培训）；美发美容预付卡投诉线索（木北/永琪/逸丝风尚/怡瑞） |
 | [Spec/kids-products.md](Spec/kids-products.md) | 少买 | 儿童用品避坑 | 玩具（无3C/小零件/邻苯/锐利尖端，多乐智/巧乐/上影元等）；童装（绳带/pH/纤维含量标识）；文具作业本（D65亮度荧光超标召回，教科/环美/四季年华/光华） |
+
+## 贡献
+
+补充条目前先看 [CONTRIBUTING.md](CONTRIBUTING.md)：只收有处罚文书 / 主流媒体调查来源、能落到法人主体的条目。
 
 ## 维护规则
 
