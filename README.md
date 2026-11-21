@@ -47,7 +47,7 @@
 | ---- | ---- | ---- |
 | [food-safety.md](Spec/01-food/food-safety.md) | 少买 | 食品安全：抽检不合格、异物、召回、行政处罚（老干妈、2014 福喜过期肉、星巴克无锡门店、冷饮糖果、北京企业等） |
 | [dairy-guide.md](Spec/01-food/dairy-guide.md) | 选购指南 | 奶制品怎么选：看配料表 / 蛋白质 / 国标；避坑复原乳、调制乳、乳饮料 |
-| [additive-gap.md](Spec/01-food/additive-gap.md) | 少买 | 添加剂标准差异 & 非法添加物：国际禁用国内仍合法、国内刚禁用、法律明令禁止三类 |
+| [additive-gap.md](Spec/01-food/additive-gap.md) | 少买 | 添加剂对照（儿童选购向）：人工甜味剂、合成色素、含铝膨松剂、防腐剂逐项配料表别名与口径；国内已禁用品种；法律明令禁止的非法添加物 |
 | [shanzhai-food.md](Spec/01-food/shanzhai-food.md) | 少买 | 山寨食品 / 假醋 / 老字号鉴别：康帅傅、雷碧、六大核桃等；假陈醋 4 起；龙门米醋、王致和、六必居、稻香村正品鉴别 |
 
 ### 02 · 穿（clothing）
