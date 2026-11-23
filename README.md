@@ -79,7 +79,7 @@
 
 | 文件 | 分级 | 覆盖范围 |
 | ---- | ---- | ---- |
-| [kids-no-eat.md](Spec/06-kids/kids-no-eat.md) | 不要买 / 少买 | **一页速查**：什么牌子什么东西不能吃、要少吃（食品，只看结论不看标准） |
+| [kids-life.md](Spec/06-kids/kids-life.md) | 不要买 / 少买 | **一页速查**：儿童衣食住行——什么牌子什么东西不能吃 / 不能买 / 少买（只看结论） |
 | [kids-products.md](Spec/06-kids/kids-products.md) | 少买 | 玩具 / 童装 / 文具作业本：无 3C、小零件、邻苯、锐利尖端、荧光亮度超标召回；儿童代可可脂/反式脂肪酸口径与避吃食品清单；附二年级避买速查 |
 | [toxic-textbooks.md](Spec/06-kids/toxic-textbooks.md) | 少买 | 问题儿童读物 / 教材：人教社数学插图、丁汝昌投降图、靖国神社封面、脏话读物等 |
 
