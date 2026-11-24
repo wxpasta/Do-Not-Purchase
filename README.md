@@ -49,6 +49,7 @@
 | [dairy-guide.md](Spec/01-food/dairy-guide.md) | 选购指南 | 奶制品怎么选：看配料表 / 蛋白质 / 国标；避坑复原乳、调制乳、乳饮料 |
 | [additive-gap.md](Spec/01-food/additive-gap.md) | 少买 | 添加剂对照（儿童选购向）：人工甜味剂、合成色素、含铝膨松剂、防腐剂逐项配料表别名与口径；国内已禁用品种；法律明令禁止的非法添加物 |
 | [shanzhai-food.md](Spec/01-food/shanzhai-food.md) | 少买 | 山寨食品 / 假醋 / 老字号鉴别：康帅傅、雷碧、六大核桃等；假陈醋 4 起；龙门米醋、王致和、六必居、稻香村正品鉴别 |
+| [prepared-food.md](Spec/01-food/prepared-food.md) | 不能买 / 少买 | 预制菜：阜阳槽头肉梅菜扣肉三家（吊销许可证、罚没 1287 万）、正大小酥肉脱氢乙酸；西贝儿童餐冷冻配菜 B 档；六部门"预制菜不添加防腐剂"红线与选购三条 |
 
 ### 02 · 穿（clothing）
 
