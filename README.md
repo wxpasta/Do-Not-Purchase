@@ -122,6 +122,7 @@
 | [hebei-notices.md](Spec/09-reference/hebei-notices.md) | 不能买 / 少买 | 河北省监局通告速查：新乐舒达童鞋重金属+邻苯、甜甜优选与"格子套"童装纤维含量虚标、校服 pH/纤维含量；玉米粉黄曲霉毒素（流入幼儿园）、妙田/龙城山泉饮用水、月饼霉菌、糖饼铝残留 |
 | [jilin-notices.md](Spec/09-reference/jilin-notices.md) | 不能买 / 少买 | 吉林省市监厅通告速查：百年公主/春城迎宾白酒、莫小乔汽水酵母、岩泉牛板筋菌落总数、谷正香酱油氨基酸态氮、工人村酒 DBP；童装童鞋校服抽查全合格、纸尿裤 3 批不合格 |
 | [guangdong-notices.md](Spec/09-reference/guangdong-notices.md) | 不能买 / 少买 | 广东/广州通告速查：恒大冰泉、观音山矿泉水铜绿假单胞菌；凉果菜干铅超标；酒精度不符多起；广州召回藤之木工房连体衣、mr. baby 童鞋；2025 广州校服 7 批次不合格 |
+| [cca-tests.md](Spec/09-reference/cca-tests.md) | 不能买 / 少买 | 消协比较试验点名汇总：儿童羽绒服（贝肽斯/PUMA/雅鹿 绒子含量与绒丝+羽丝不达标、Dickies 未标绒子含量）；儿童书包（自然鱼邻苯、Uniker 缝合、ZUONU/VNINE CITY 震荡冲击）；北京消协儿童寝具（金多喜铬铅超标）与保温杯内胆材质；附"比较试验≠处罚"口径与反向事实 |
 
 ## 贡献
 
