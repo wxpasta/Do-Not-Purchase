@@ -89,6 +89,7 @@
 | ---- | ---- | ---- |
 | [kids-life.md](Spec/06-kids/kids-life.md) | 不要买 / 少买 | **一页速查**：儿童衣食住行 + 洗漱护肤——什么牌子什么东西不能吃 / 不能买 / 少买（只看结论） |
 | [kids-products.md](Spec/06-kids/kids-products.md) | 少买 | 玩具 / 童装 / 文具作业本：无 3C、小零件、邻苯、锐利尖端、荧光亮度超标召回；儿童代可可脂/反式脂肪酸口径与避吃食品清单；附二年级避买速查 |
+| [kids-down-jacket.md](Spec/06-kids/kids-down-jacket.md) | 不能买 / 少买 | 儿童羽绒服专表：中消协 30 款比较试验（贝肽斯、PUMA、雅鹿绒子含量/绒丝+羽丝不达标；Dickies 未标绒子含量；ZARA 一半鸭毛走企业标准）；上海抽检 H&M、零到七贸易两款；总局羽绒校服/吊销执照案例 |
 | [toxic-textbooks.md](Spec/06-kids/toxic-textbooks.md) | 少买 | 问题儿童读物 / 教材：人教社数学插图、丁汝昌投降图、靖国神社封面、脏话读物等 |
 
 ### 07 · 服务（services）
