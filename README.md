@@ -118,6 +118,7 @@
 | [beijing-notices.md](Spec/09-reference/beijing-notices.md) | 不能买 / 少买 | 北京市监局通告速查：6 批次童鞋点名（皇室童缘、jeepkids、贝比哆、诺诗兰、牧童、buyeru:us）；欧育/年衣/威尔通召回；无 3C 拼豆与 220V 电熨斗；美惠万家农残、黄鳝恩诺沙星、猪腰五氯酚酸钠、豆腐丝苯甲酸 |
 | [shandong-notices.md](Spec/09-reference/shandong-notices.md) | 不能买 / 少买 | 山东省监局通告速查：黄贺城蜂蜜蔗糖超标、盛之源山楂条霉菌、轻元素维 C 未检出；童鞋 16 批次（塑化剂/重金属/甲醛）、童装 459 批次（pH/色牢度/绳带）、书包邻苯；可比小鹿裤召回 |
 | [hebei-notices.md](Spec/09-reference/hebei-notices.md) | 不能买 / 少买 | 河北省监局通告速查：新乐舒达童鞋重金属+邻苯、甜甜优选与"格子套"童装纤维含量虚标、校服 pH/纤维含量；玉米粉黄曲霉毒素（流入幼儿园）、妙田/龙城山泉饮用水、月饼霉菌、糖饼铝残留 |
+| [jilin-notices.md](Spec/09-reference/jilin-notices.md) | 不能买 / 少买 | 吉林省市监厅通告速查：百年公主/春城迎宾白酒、莫小乔汽水酵母、岩泉牛板筋菌落总数、谷正香酱油氨基酸态氮、工人村酒 DBP；童装童鞋校服抽查全合格、纸尿裤 3 批不合格 |
 
 ## 贡献
 
