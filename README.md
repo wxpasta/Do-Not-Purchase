@@ -84,6 +84,7 @@
 | ---- | ---- | ---- |
 | [daily-items.md](Spec/05-daily-use/daily-items.md) | 少买 | 日常小物件：洗护、卫生巾纸尿裤、数据线充电器、小家电、厨房用品 |
 | [oem-licensed.md](Spec/05-daily-use/oem-licensed.md) | 少买 | 贴牌 / 卖吊牌（品牌授权）：同仁堂贴牌磷虾油、仁和、修正、五芳斋、南极人、恒源祥、回力等 |
+| [women.md](Spec/05-daily-use/women.md) | 不能买 / 少买 | 女性用品：曲美卫生巾全长偏差被罚（蓟州 58 号）、淘淘氧棉虫体待定性；内衣纤维含量不符（雪茜曼/HORMOVE ACTIVE/米蕾兰/黛尔佳人/UVUR/千奈美/芬腾、tutuanna/俞兆林）；化妆品成分比对与禁用原料（馥珮、FLOWERWAY、茜妃、美琦诗、ICE LOVE）；私处洗液激素（南宁抽检、玉林吊销证） |
 
 ### 06 · 儿童（kids）
 
