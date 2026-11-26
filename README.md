@@ -93,6 +93,7 @@
 | [kids-products.md](Spec/06-kids/kids-products.md) | 少买 | 玩具 / 童装 / 文具作业本：无 3C、小零件、邻苯、锐利尖端、荧光亮度超标召回；儿童代可可脂/反式脂肪酸口径与避吃食品清单；附二年级避买速查 |
 | [kids-down-jacket.md](Spec/06-kids/kids-down-jacket.md) | 不能买 / 少买 | 儿童羽绒服专表：中消协 30 款比较试验（贝肽斯、PUMA、雅鹿绒子含量/绒丝+羽丝不达标；Dickies 未标绒子含量；ZARA 一半鸭毛走企业标准）；上海抽检 H&M、零到七贸易两款；总局羽绒校服/吊销执照案例 |
 | [primary-school.md](Spec/06-kids/primary-school.md) | 不能买 / 少买 | 小学生清单：书包（自然鱼邻苯、Uniker 缝合、ZUONU/VNINE CITY 震荡冲击）、作业本（湖南 11 万本召回、"森木设计"荧光亮度、防近视话术）、校服、文具 GB 21027 |
+| [study-desk.md](Spec/06-kids/study-desk.md) | 不能买 / 少买 | 学习桌 / 学习椅 / 台灯：卓酷 ZKZ-YXWX100 与松下 JF-TCJM7012A 孔及间隙不合格（广东 2025）、标达/诺森/赣宏/建派结构安全与警示标识、钢建家居书桌召回未封边、中山"护眼教室灯"三无套证；附 GB/T 48090—2026 新国标与六步核验 |
 | [toxic-textbooks.md](Spec/06-kids/toxic-textbooks.md) | 少买 | 问题儿童读物 / 教材：人教社数学插图、丁汝昌投降图、靖国神社封面、脏话读物等 |
 
 ### 07 · 服务（services）
