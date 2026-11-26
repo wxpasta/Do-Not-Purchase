@@ -115,6 +115,7 @@
 | [315-exposed.md](Spec/09-reference/315-exposed.md) | 少买 | 央视 3·15 晚会曝光：2019–2024 共 6 年点名企业与品牌；按年份索引，条目回各品类文件 |
 | [acquired-foreign-brands.md](Spec/09-reference/acquired-foreign-brands.md) | 认知校准 | 原外国品牌现被中资收购 / 运营：品牌所有权转移 vs 仅运营权在中资，非抵制对象 |
 | [mass-brands.md](Spec/09-reference/mass-brands.md) | 不能买 / 少买 | 平价大众品牌速查：康师傅/统一老坛酸菜（土坑酸菜、插旗罚 548.8 万）、优衣库两款羽绒（充绒量少 20.4%、罚近百万）、无印良品等儿童服装色牢度（海关通报）、名创优品童鞋小附件与指甲油三氯甲烷超标 1470 倍 |
+| [beijing-notices.md](Spec/09-reference/beijing-notices.md) | 不能买 / 少买 | 北京市监局通告速查：6 批次童鞋点名（皇室童缘、jeepkids、贝比哆、诺诗兰、牧童、buyeru:us）；欧育/年衣/威尔通召回；无 3C 拼豆与 220V 电熨斗；美惠万家农残、黄鳝恩诺沙星、猪腰五氯酚酸钠、豆腐丝苯甲酸 |
 
 ## 贡献
 
